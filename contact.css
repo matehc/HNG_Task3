@@ -91,7 +91,7 @@ FORM STYLES
 }
 
 .field::placeholder {
-    font-size: .7em;
+    font-size: .8em;
     color: #dadadc;
 }
 
@@ -115,7 +115,7 @@ BUTTON STYLES
     border: none;
     background-color: #D19F4E;
     color: black;
-    align-self: flex-end;
+    /* align-self: flex-end; */
     cursor: pointer;
 }
 
